@@ -1,4 +1,5 @@
 # DcbHub  
+> DecibelHub
 ### *Live music community*
 
 ![Django](https://img.shields.io/badge/Made%20with-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
@@ -14,7 +15,7 @@ From small basement gigs to club nights and arena shows – all events are welco
 
 Users will be able to discover upcoming shows, connect with others, and get personalized recommendations based on their music taste and location.
 
-> While the current focus is on Sweden, support for other countries may be added in the future if there's interest.
+> While the current focus is on Sweden, support for other countries may be added in the future
 
 ---
 
