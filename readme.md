@@ -1,6 +1,6 @@
-# DcbHub  
-> DecibelHub
-### *Live music community*
+#   DcbHub 🤘🏻
+> 
+### *Live music community* ılıılıılı
 
 ![Django](https://img.shields.io/badge/Made%20with-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -10,7 +10,7 @@
 
 ## 🎸 Description
 
-**DcbHub** is a hobby project aiming to become a community-driven platform for live music in Sweden.  
+DecibelHub aka **DcbHub** is a hobby project aiming to become a community-driven platform for live music in Sweden.  
 From small basement gigs to club nights and arena shows – all events are welcome here.
 
 Users will be able to discover upcoming shows, connect with others, and get personalized recommendations based on their music taste and location.
